@@ -1,3 +1,10 @@
+/*NOTE:
+This file is for testing purposes only.
+
+*/
+
+
+
 //Key:
 const API_Key="AIzaSyB2CL69PUQsH4j4lRmMFJmm07nE1dB8rTE";
 
