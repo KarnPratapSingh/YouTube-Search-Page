@@ -30,6 +30,7 @@ async function fetchAPI() {
 
   //convert the response into JSON:
   const data = await response.json();
+  console.log('>>>',data);
 
   //Getting only 4 videos at once:
   let present_data = data.items.slice(
