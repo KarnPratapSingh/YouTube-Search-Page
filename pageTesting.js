@@ -1,3 +1,10 @@
+/*NOTE:
+This file is for testing purposes only.
+
+*/
+
+
+
 const pagination=document.querySelector('.pagination');
 let start=0;
 let last =4;
